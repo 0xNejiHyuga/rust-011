@@ -1,3 +1,8 @@
 fn main() {
-    println!("Hello, world!");
+    let a = 15;
+    let b = 15;
+
+
+    let result: bool = a == b;
+    println!("Result: {result}")
 }
